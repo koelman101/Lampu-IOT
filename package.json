@@ -1,10 +1,11 @@
 {
-  "name": "lampu-iot",
+  "name": "iot-part3",
   "version": "1.0.0",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node lampu.js"
+    "start":"node app.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,7 +13,6 @@
     "express": "^4.16.4"
   },
   "engines": {
-    "node": "10.14.1"
-  },
-  "description": ""
+    "node":"10.14.1"    
+  }
 }
